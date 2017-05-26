@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>hytdemo-biz</module>
+        <module>youzan-push-forward-web</module>
     </modules>
 
 
